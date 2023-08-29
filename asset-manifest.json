@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codingapplereact/static/css/main.c9849205.css",
+    "main.js": "/codingapplereact/static/js/main.c92c2d16.js",
+    "static/js/787.f587e8d5.chunk.js": "/codingapplereact/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/codingapplereact/index.html",
+    "main.c9849205.css.map": "/codingapplereact/static/css/main.c9849205.css.map",
+    "main.c92c2d16.js.map": "/codingapplereact/static/js/main.c92c2d16.js.map",
+    "787.f587e8d5.chunk.js.map": "/codingapplereact/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9849205.css",
+    "static/js/main.c92c2d16.js"
+  ]
+}
